@@ -18,11 +18,10 @@ The Interactive World Map project allows users to explore global statistics by c
 # Getting Started
 
 ## Prerequisites
-- **Download FrontEnd https://github.com/Nofate4you/React-CRUDContactList**
-- **JDK 11+**
-- **Maven** (or Gradle)
-- **PostgreSQL**
-- **Node.js & npm**
+- **World Bank API: Obtain the necessary API keys from World Bank API**
+- **Angular 18+: Ensure you have Angular 18 or above installed.**
+- **Package.json: Ensure dependencies are listed in the package.json.** 
+- **World map API paths needed**
 
 # Installation
 
@@ -41,9 +40,9 @@ ng serve
 
 ## Step 5: Usage
 **Frontend**:
--Interact with the world map to view country-specific data from the World Bank.
--Dynamic, real-time statistics display for every country.
--User-friendly interface for seamless navigation and visual display.
+**-Interact with the world map to view country-specific data from the World Bank.**
+**-Dynamic, real-time statistics display for every country.**
+**-User-friendly interface for seamless navigation and visual display.**
 
 ## Screenshots 
 ![image](https://github.com/user-attachments/assets/88450d66-90a3-49f8-aa85-b6072229f5d9)
