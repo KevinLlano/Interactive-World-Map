@@ -1,27 +1,51 @@
-# WorldMap
+# Interactive World Map
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.1.4.
+## Overview
+The Interactive World Map project allows users to explore global statistics by clicking on countries to view detailed data, powered by the WorldBank API. Built with Angular, HTML, CSS, JavaScript, and TypeScript, it offers a dynamic, responsive map that displays real-time country-specific information. 
 
-## Development server
+## Features
+- User-Friendly Navigation: Easy-to-use interface with intuitive controls for accessing and interacting with the map.
+- WorldBank API Integration: Fetch and display country-specific information, including economic and social indicators.
+- Data Visualization: Visualize country data through interactive charts and clickable map locations, offering insightful trends and comparisons visually.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Technologies Used
+- Frontend: Angular, HTML5, TailwindCSS, Bootstrap
+- Database: WorldBank API (for retrieving economic and country-specific data)
+- Version Control: GitHub
+- Map Integration: SVG, Mapsvg
 
-## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+# Getting Started
 
-## Build
+## Prerequisites
+- **Download FrontEnd https://github.com/Nofate4you/React-CRUDContactList**
+- **JDK 11+**
+- **Maven** (or Gradle)
+- **PostgreSQL**
+- **Node.js & npm**
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+# Installation
 
-## Running unit tests
+## Step 1: Clone the Repository
+```bash
+git clone https://github.com/KevinLlano/Interactive-World-Map.git
+```
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Step 2: Frontend Setup (Angular)
+Navigate to the frontend folder:
+cd Angular18/world-map
 
-## Running end-to-end tests
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## Step 3: Start the Development Server
+ng serve
 
-## Further help
+## Step 5: Usage
+**Frontend**:
+-Interact with the world map to view country-specific data from the World Bank.
+-Dynamic, real-time statistics display for every country.
+-User-friendly interface for seamless navigation and visual display.
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+## Screenshots 
+![image](https://github.com/user-attachments/assets/88450d66-90a3-49f8-aa85-b6072229f5d9)
+
+
