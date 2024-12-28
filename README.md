@@ -40,9 +40,9 @@ ng serve
 
 ## Step 5: Usage
 **Frontend**:
-**-Interact with the world map to view country-specific data from the World Bank.**
-**-Dynamic, real-time statistics display for every country.**
-**-User-friendly interface for seamless navigation and visual display.**
+-**Interact with the world map to view country-specific data from the World Bank.**
+-**Dynamic, real-time statistics display for every country.**
+-**-User-friendly interface for seamless navigation and visual display.**
 
 ## Screenshots 
 ![image](https://github.com/user-attachments/assets/88450d66-90a3-49f8-aa85-b6072229f5d9)
